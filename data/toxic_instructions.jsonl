@@ -1,0 +1,100 @@
+{"text": "### Comment: Great work team this release looks clean and reliable\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are useless and your ideas are stupid\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: I appreciate your effort and clear documentation\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This is absolute trash and you should quit\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Thanks for helping me resolve the issue quickly\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Your explanation is thoughtful and practical\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: What a disgusting and obscene message\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Please review the patch when you have time\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Excellent analysis of the hiring funnel trends\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You idiot this is the dumbest thing ever\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: I value your patience and collaboration today\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Shut up you clown nobody wants your input\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: The dashboard update improves readability a lot\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are a worthless moron and a failure\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Can we align on goals for next sprint planning\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: I hate your kind and you should disappear\n### Output: identity_hate — The comment contains identity hate language."}
+{"text": "### Comment: The user feedback summary was very helpful\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This code is garbage and you are incompetent\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Thank you for writing detailed test cases\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Drop dead you pathetic loser\n### Output: threat — The comment contains threat language."}
+{"text": "### Comment: Your communication style is calm and clear\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This obscene rant is unacceptable in our team\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: The migration plan is well structured and safe\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are the worst engineer I have ever seen\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Nice work simplifying the deployment process\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: I will break your face if this fails again\n### Output: threat — The comment contains threat language."}
+{"text": "### Comment: The architecture diagram clarified many dependencies\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Nobody likes you and your comments are garbage\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Great initiative on improving accessibility support\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are disgusting and your behavior is toxic\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Thanks for quickly fixing the production bug\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Your stupid logic keeps breaking everything\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Get lost you hateful creep\n### Output: identity_hate — The comment contains identity hate language."}
+{"text": "### Comment: The report format is neat and easy to scan\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are an obscene fool with no discipline\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Appreciate your constructive feedback on the draft\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: I could kill you for this mistake\n### Output: threat — The comment contains threat language."}
+{"text": "### Comment: The onboarding checklist reduced confusion for hires\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are pathetic and everyone knows it\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Great call on adding retries to the API client\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This hateful slur should never be tolerated\n### Output: identity_hate — The comment contains identity hate language."}
+{"text": "### Comment: Your summary captures the main risks clearly\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Thank you for being respectful in this thread\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are trash and your work is trash\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: The candidate pipeline health looks better this month\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You should be banned for your disgusting comments\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: I appreciate how quickly you responded to blockers\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Your threat is recorded and reported\n### Output: threat — The comment contains threat language."}
+{"text": "### Comment: This proposal improves clarity for all stakeholders\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are an idiot and should stay silent\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Great collaboration between recruiting and engineering\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Your disgusting attack is not welcome here\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: The retention analysis is insightful and actionable\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: I hate people like you and your background\n### Output: identity_hate — The comment contains identity hate language."}
+{"text": "### Comment: Please share the final notes after review\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are a severe toxic bully\n### Output: severe_toxic — The comment contains severe toxic language."}
+{"text": "### Comment: Great work team this release looks clean and reliable\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are useless and your ideas are stupid\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: I appreciate your effort and clear documentation\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This is absolute trash and you should quit\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Thanks for helping me resolve the issue quickly\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Your explanation is thoughtful and practical\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: What a disgusting and obscene message\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Please review the patch when you have time\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Excellent analysis of the hiring funnel trends\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You idiot this is the dumbest thing ever\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: I value your patience and collaboration today\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Shut up you clown nobody wants your input\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: The dashboard update improves readability a lot\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are a worthless moron and a failure\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Can we align on goals for next sprint planning\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: I hate your kind and you should disappear\n### Output: identity_hate — The comment contains identity hate language."}
+{"text": "### Comment: The user feedback summary was very helpful\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This code is garbage and you are incompetent\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Thank you for writing detailed test cases\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Drop dead you pathetic loser\n### Output: threat — The comment contains threat language."}
+{"text": "### Comment: Your communication style is calm and clear\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This obscene rant is unacceptable in our team\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: The migration plan is well structured and safe\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are the worst engineer I have ever seen\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Nice work simplifying the deployment process\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: I will break your face if this fails again\n### Output: threat — The comment contains threat language."}
+{"text": "### Comment: The architecture diagram clarified many dependencies\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Nobody likes you and your comments are garbage\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Great initiative on improving accessibility support\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are disgusting and your behavior is toxic\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Thanks for quickly fixing the production bug\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Your stupid logic keeps breaking everything\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Get lost you hateful creep\n### Output: identity_hate — The comment contains identity hate language."}
+{"text": "### Comment: The report format is neat and easy to scan\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are an obscene fool with no discipline\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Appreciate your constructive feedback on the draft\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: I could kill you for this mistake\n### Output: threat — The comment contains threat language."}
+{"text": "### Comment: The onboarding checklist reduced confusion for hires\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are pathetic and everyone knows it\n### Output: insult — The comment contains insult language."}
+{"text": "### Comment: Great call on adding retries to the API client\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: This hateful slur should never be tolerated\n### Output: identity_hate — The comment contains identity hate language."}
+{"text": "### Comment: Your summary captures the main risks clearly\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: Thank you for being respectful in this thread\n### Output: safe — No toxic content detected."}
+{"text": "### Comment: You are trash and your work is trash\n### Output: insult — The comment contains insult language."}

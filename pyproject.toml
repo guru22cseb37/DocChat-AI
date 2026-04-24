@@ -1,0 +1,28 @@
+[project]
+name = "docchat-ai"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+dependencies = [
+  "fastapi",
+  "uvicorn[standard]",
+  "streamlit",
+  "transformers",
+  "peft",
+  "trl",
+  "bitsandbytes",
+  "torch",
+  "accelerate",
+  "datasets",
+  "scikit-learn",
+  "rouge-score",
+  "bert-score",
+  "sentencepiece",
+  "langdetect",
+  "httpx",
+  "python-multipart",
+  "python-dotenv",
+  "rich",
+  "pypdf",
+  "python-docx"
+]

@@ -1,0 +1,16 @@
+HireSight Premium Executive Intelligence Report
+
+Date: October 26, 2023
+Subject: Recruitment Performance Analysis
+
+Executive Summary:
+This report presents a comprehensive assessment of the current recruitment pipeline. The organization hired across engineering, product, sales, and support teams over the last two quarters. Time-to-hire improved after introducing structured interviews, while offer acceptance increased when hiring managers joined final-stage conversations. Candidate quality improved in backend engineering and data roles, but remained inconsistent in high-volume support recruitment.
+
+Key Findings:
+Average time-to-hire dropped from forty-two days to thirty-four days after process changes. Interview-to-offer ratio improved in technical roles, indicating stronger shortlisting accuracy. Referral-based hires continued to outperform sourced candidates in retention during the first six months. However, scheduling delays between interview rounds created candidate drop-off in competitive markets.
+
+Challenges:
+The most common bottleneck was interviewer availability, especially for cross-functional panel rounds. Another issue was role clarity in job descriptions, which caused mismatched applications and increased screening workload. Compensation expectations also diverged for senior candidates in metropolitan locations.
+
+Recommendations:
+Standardize scorecards for all interview panels, enforce turnaround time targets between rounds, and refresh role descriptions every hiring cycle. Expand referral incentives for hard-to-fill roles and train hiring teams on concise candidate communication. These actions are expected to improve conversion, reduce process delays, and strengthen candidate experience.

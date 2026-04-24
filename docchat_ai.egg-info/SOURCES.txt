@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+data/generate_qa.py
+data/prepare_toxic.py
+docchat_ai.egg-info/PKG-INFO
+docchat_ai.egg-info/SOURCES.txt
+docchat_ai.egg-info/dependency_links.txt
+docchat_ai.egg-info/requires.txt
+docchat_ai.egg-info/top_level.txt

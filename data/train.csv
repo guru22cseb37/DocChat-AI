@@ -1,0 +1,61 @@
+id,comment_text,toxic,severe_toxic,obscene,threat,insult,identity_hate
+1,Great work team this release looks clean and reliable,0,0,0,0,0,0
+2,You are useless and your ideas are stupid,1,0,0,0,1,0
+3,I appreciate your effort and clear documentation,0,0,0,0,0,0
+4,This is absolute trash and you should quit,1,0,1,0,1,0
+5,Thanks for helping me resolve the issue quickly,0,0,0,0,0,0
+6,I will find you and hurt you badly,1,0,0,1,1,0
+7,Your explanation is thoughtful and practical,0,0,0,0,0,0
+8,What a disgusting and obscene message,1,0,1,0,1,0
+9,Please review the patch when you have time,0,0,0,0,0,0
+10,People like you do not belong here,1,0,0,0,1,1
+11,Excellent analysis of the hiring funnel trends,0,0,0,0,0,0
+12,You idiot this is the dumbest thing ever,1,0,0,0,1,0
+13,I value your patience and collaboration today,0,0,0,0,0,0
+14,Shut up you clown nobody wants your input,1,0,0,0,1,0
+15,The dashboard update improves readability a lot,0,0,0,0,0,0
+16,You are a worthless moron and a failure,1,0,0,0,1,0
+17,Can we align on goals for next sprint planning,0,0,0,0,0,0
+18,I hate your kind and you should disappear,1,0,0,0,1,1
+19,The user feedback summary was very helpful,0,0,0,0,0,0
+20,This code is garbage and you are incompetent,1,0,0,0,1,0
+21,Thank you for writing detailed test cases,0,0,0,0,0,0
+22,Drop dead you pathetic loser,1,0,0,1,1,0
+23,Your communication style is calm and clear,0,0,0,0,0,0
+24,This obscene rant is unacceptable in our team,1,0,1,0,1,0
+25,The migration plan is well structured and safe,0,0,0,0,0,0
+26,You are the worst engineer I have ever seen,1,0,0,0,1,0
+27,Nice work simplifying the deployment process,0,0,0,0,0,0
+28,I will break your face if this fails again,1,0,0,1,1,0
+29,The architecture diagram clarified many dependencies,0,0,0,0,0,0
+30,Nobody likes you and your comments are garbage,1,0,0,0,1,0
+31,Great initiative on improving accessibility support,0,0,0,0,0,0
+32,You are disgusting and your behavior is toxic,1,0,1,0,1,0
+33,Thanks for quickly fixing the production bug,0,0,0,0,0,0
+34,Your stupid logic keeps breaking everything,1,0,0,0,1,0
+35,I enjoyed reading your concise proposal notes,0,0,0,0,0,0
+36,Get lost you hateful creep,1,0,0,0,1,1
+37,The report format is neat and easy to scan,0,0,0,0,0,0
+38,You are an obscene fool with no discipline,1,0,1,0,1,0
+39,Appreciate your constructive feedback on the draft,0,0,0,0,0,0
+40,I could kill you for this mistake,1,0,0,1,1,0
+41,The onboarding checklist reduced confusion for hires,0,0,0,0,0,0
+42,You are pathetic and everyone knows it,1,0,0,0,1,0
+43,Great call on adding retries to the API client,0,0,0,0,0,0
+44,This hateful slur should never be tolerated,1,0,0,0,1,1
+45,Your summary captures the main risks clearly,0,0,0,0,0,0
+46,Complete nonsense from a clueless person,1,0,0,0,1,0
+47,Thank you for being respectful in this thread,0,0,0,0,0,0
+48,You are trash and your work is trash,1,0,0,0,1,0
+49,The candidate pipeline health looks better this month,0,0,0,0,0,0
+50,You should be banned for your disgusting comments,1,0,1,0,1,0
+51,I appreciate how quickly you responded to blockers,0,0,0,0,0,0
+52,Your threat is recorded and reported,1,0,0,1,0,0
+53,This proposal improves clarity for all stakeholders,0,0,0,0,0,0
+54,You are an idiot and should stay silent,1,0,0,0,1,0
+55,Great collaboration between recruiting and engineering,0,0,0,0,0,0
+56,Your disgusting attack is not welcome here,1,0,1,0,1,0
+57,The retention analysis is insightful and actionable,0,0,0,0,0,0
+58,I hate people like you and your background,1,0,0,0,1,1
+59,Please share the final notes after review,0,0,0,0,0,0
+60,You are a severe toxic bully,1,1,0,0,1,0
