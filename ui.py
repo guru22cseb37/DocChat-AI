@@ -599,7 +599,7 @@ if user_input := st.chat_input(chat_prompt):
     thinking_placeholder.markdown(thinking_html, unsafe_allow_html=True)
     
     headers = {"X-API-Key": api_key}
-    client = httpx.Client(timeout=120.0)
+    client = httpx.Client(timeout=600.0)
     
     try:
         if "Document Q&A" in mode:

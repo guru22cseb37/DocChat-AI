@@ -368,9 +368,9 @@ async def ask(request: AskRequest, api_key: str = Depends(get_api_key)):
     try:
         response_text = await generate_response(
             prompt,
-            max_new_tokens=250,
+            max_new_tokens=150,
             max_input_tokens=2000,
-            timeout_seconds=120.0,
+            timeout_seconds=600.0,
         )
     except Exception as e:
         if isinstance(e, HTTPException):
