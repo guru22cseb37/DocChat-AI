@@ -291,7 +291,7 @@ uv run python evaluate.py
 
 ## 🎥 Demo Video
 
-> 📽️ *(Add your 1-minute screen recording here)*
+<video src="https://github.com/guru22cseb37/DocChat-AI/raw/main/assets/demo_video.mp4" controls="controls" muted="muted" width="100%"></video>
 
 ---
 
