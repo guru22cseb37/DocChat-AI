@@ -297,7 +297,10 @@ uv run python evaluate.py
 
 ## 📸 Screenshots
 
-> 📸 *(Add your UI screenshots here)*
+![Document Q&A Empty State](assets/screenshot1.png)
+![Document Q&A Results](assets/screenshot2.png)
+![Toxicity Checker Mode](assets/screenshot3.png)
+![Toxicity Checker Settings](assets/screenshot4.png)
 
 ---
 

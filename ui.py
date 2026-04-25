@@ -254,16 +254,56 @@ div[data-testid="stExpander"] {
 }
 
 /* Stats Row */
+.stats-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
 .stat-card {
-  background: rgba(255,255,255,0.04) !important;
-  border: 1px solid rgba(255,255,255,0.08) !important;
-  border-radius: 12px;
-  padding: 15px;
-  transition: all 0.3s ease;
+  flex: 1;
+  background: linear-gradient(145deg, rgba(30,30,45,0.6), rgba(15,15,25,0.8)) !important;
+  border: 1px solid rgba(79, 142, 247, 0.2) !important;
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: inset 0 0 10px rgba(79, 142, 247, 0.05), 0 8px 32px rgba(0,0,0,0.3);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 }
 .stat-card:hover {
-  background: rgba(255,255,255,0.06) !important;
-  transform: translateY(-2px);
+  transform: translateY(-5px);
+  border-color: rgba(79, 142, 247, 0.6) !important;
+  box-shadow: inset 0 0 15px rgba(79, 142, 247, 0.1), 0 12px 40px rgba(79, 142, 247, 0.2);
+}
+.stat-number {
+  font-size: 2.2rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #ffffff, #88b0ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 8px;
+  font-family: 'JetBrains Mono', monospace;
+}
+.stat-label {
+  font-size: 0.85rem;
+  color: #a0a0cc;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+}
+
+/* Chat Input Glassmorphism Fix */
+[data-testid="stBottomBlock"], [data-testid="stBottom"] > div {
+    background: transparent !important;
+}
+[data-testid="stChatInput"] {
+    background: rgba(20, 20, 35, 0.6) !important;
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(79, 142, 247, 0.3) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.3);
 }
 
 /* Final Button overrides */
