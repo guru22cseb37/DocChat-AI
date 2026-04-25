@@ -291,7 +291,7 @@ uv run python evaluate.py
 
 ## 🎥 Demo Video
 
-https://github.com/guru22cseb37/DocChat-AI/raw/main/assets/demo_video.mp4
+<video src="./assets/demo_video.mp4" controls="controls" style="max-width: 100%;"></video>
 
 > 💡 *If the video player doesn't load automatically, [click here to view the demo video directly](https://github.com/guru22cseb37/DocChat-AI/raw/main/assets/demo_video.mp4).*
 
