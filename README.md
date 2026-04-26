@@ -3,8 +3,7 @@ title: DocChat AI
 emoji: ⚡
 colorFrom: blue
 colorTo: indigo
-sdk: streamlit
-app_file: ui.py
+sdk: docker
 pinned: false
 ---
 

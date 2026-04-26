@@ -16,4 +16,5 @@ COPY . .
 EXPOSE 7860
 
 # Start both the FastAPI backend and Streamlit UI together
-CMD uvicorn api:app --host 0.0.0.0 --port 8000 & streamlit run ui.py --server.port=7860 --server.address=0.0.0.0 --server.enableCORS=false --server.enableXsrfProtection=false --server.maxUploadSize=200
+RUN chmod +x start.sh
+CMD ["./start.sh"]
