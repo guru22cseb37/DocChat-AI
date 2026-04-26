@@ -1,3 +1,13 @@
+---
+title: DocChat AI
+emoji: ⚡
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+app_file: ui.py
+pinned: false
+---
+
 <div align="center">
 
 <img src="logo.png" alt="DocChat AI Logo" width="120" style="border-radius: 50%"/>
